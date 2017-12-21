@@ -53,11 +53,12 @@ behavior (such as preserving whitespace when displayed as HTML) are specified in
 
 ## <a name="directory-contents"></a> Directory Contents
 
+* **documentation**: Contains documentation related files
 * **server**: No special server configuration files are required
 * **website**: Contains the website files
 * **CHANGELOG.md**: A log of changes made to the repository
 * **CONTRIBUTING.md**: Rules for contributing to the repository
-* **LICENSE.md**: License information
+* **LICENSE.txt**: License information
 * **README.md**: This document
 
 ## <a name="quick-start-guides"></a> Quick Start Guides
