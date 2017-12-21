@@ -5,7 +5,7 @@ old school hacker terminal. It's great for novelty websites or as a film prop
 when expanded to full screen. All processing takes place on the client side; no
 special server configurations are required.
 
-**Current version**: 0.0.0
+**Current version**: 0.1.0
 
 * This library uses [semantic versioning](http://semver.org).
 

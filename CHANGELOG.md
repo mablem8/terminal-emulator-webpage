@@ -6,10 +6,15 @@ file. See the bottom of the file for a change log entry template.
 ## Overview
 
 * [Unreleased](#unreleased)
+* [0.1.0](#0.1.0) 2017-12-21
 * [Template](#template)
 * [License](#license)
 
 ## <a name="unreleased"></a> Unreleased
+
+* Currently, no unreleased changes have been recorded
+
+## <a name="0.1.0"></a> 0.1.0 2017-12-21
 
 ### Added
 * Documentation, change log, contribution guide, license, README, and .gitignore
