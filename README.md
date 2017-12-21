@@ -5,7 +5,7 @@ old school hacker terminal. It's great for novelty websites or as a film prop
 when expanded to full screen. All processing takes place on the client side; no
 special server configurations are required.
 
-**Current version**: 0.1.0
+**Current version**: 0.0.0
 
 * This library uses [semantic versioning](http://semver.org).
 
@@ -53,11 +53,12 @@ behavior (such as preserving whitespace when displayed as HTML) are specified in
 
 ## <a name="directory-contents"></a> Directory Contents
 
+* **documentation**: Contains documentation related files
 * **server**: No special server configuration files are required
 * **website**: Contains the website files
 * **CHANGELOG.md**: A log of changes made to the repository
 * **CONTRIBUTING.md**: Rules for contributing to the repository
-* **LICENSE.md**: License information
+* **LICENSE.txt**: License information
 * **README.md**: This document
 
 ## <a name="quick-start-guides"></a> Quick Start Guides

@@ -13,6 +13,7 @@ file. See the bottom of the file for a change log entry template.
 
 ### Added
 * Documentation, change log, contribution guide, license, README, and .gitignore
+* Website files and optional server files
 
 ## <a name="template"></a> Template
 
